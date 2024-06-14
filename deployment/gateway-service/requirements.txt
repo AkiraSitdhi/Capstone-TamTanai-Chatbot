@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+requests
+line-bot-sdk
+line-bot-sdk-extra
+aiohttp
+python-dotenv
