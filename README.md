@@ -2,6 +2,10 @@
 
 This Capstone project aims to address the challenges of generalized LLMs in handling domain-specific data and the Thai language, with a focus on mitigating hallucinations in responses. Our goal is to develop a chatbot that reliably generates high-quality, domain-specific responses, particularly for the legal field, and to demonstrate its end-to-end use case via the LINE application chat platform.
 
+#### Papers
+- [Project Final Report](paper_final_report.pdf)
+- [ACL 2024 SRW Submission](paper_acl2024_srw.pdf)
+
 #### Members
 - 6330440921 Bhuribhat Ratanasanguanvongs
 - 6330528521 Sorawit Thanitthapongsa
